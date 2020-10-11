@@ -14,9 +14,9 @@
 
 ### Roadmap
 
-[ ] Data Structure
+[X] Data Structure
 
-[ ] Class Library
+[X] Class Library
 
 [ ] Index
 
