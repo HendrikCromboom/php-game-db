@@ -8,8 +8,7 @@
     * finishedGames List <gameModel>
     * gamesPlaying List<List<gameModel>gamePlaying> 
     * achievements List<achievementModel>
-    * currentGame gameModel
-    * currentAchievementHunt achievementModel
+   
     
 * gameModel
     * gameName String
